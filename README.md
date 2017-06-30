@@ -1,4 +1,4 @@
-Tek bir claas derleyip çalistirilmasi göstereceksek
+Tek bir claas derleyip çalistirilmasi
 
 C:\Users\mustafa.ergan\Desktop\javac\JavacExample\single>javac Deneme1.java
 
